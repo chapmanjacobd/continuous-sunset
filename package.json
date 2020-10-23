@@ -1,0 +1,26 @@
+{
+  "name": "continuous-sunset",
+  "version": "1.0.0",
+  "description": "Emits a ray of forever summer",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chapmanjacobd/continuous-sunset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chapmanjacobd/continuous-sunset/issues"
+  },
+  "homepage": "https://github.com/chapmanjacobd/continuous-sunset#readme",
+  "dependencies": {
+    "@types/node": "^14.14.2",
+    "date-fns": "^2.16.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
