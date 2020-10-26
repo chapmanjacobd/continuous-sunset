@@ -45,7 +45,8 @@ defmodule MidnightSun.MixProject do
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
       {:solar, "0.1.0"},
-      {:geo, "~> 3.3"}
+      {:geo, "~> 3.3"},
+      {:csv, "2.4.1"}
     ]
   end
 
